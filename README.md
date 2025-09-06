@@ -53,6 +53,3 @@ Created by Harnoor Kaur✨
 
 ⭐ If you find this repository helpful, don’t forget to **star** it!
 
-
-Do you want me to also make a **professional learning roadmap infographic (image)** that you can add inside this README?
-```
